@@ -1,9 +1,9 @@
 import React from 'react';
 import {Image, ImageBackground, Text, View} from 'react-native';
 import styles from './styles';
-import LOGO from '../assets/img/logo.jpg';
-import INTRODUCTION from '../assets/img/introduction.jpg';
-import {BACKGROUND_URL} from '../config/constants';
+import LOGO from '../../assets/img/logo.jpg';
+import INTRODUCTION from '../../assets/img/introduction.jpg';
+import {BACKGROUND_URL} from '../../config/constants';
 
 const MainPage = () => (
   <View style={styles.mainWrapper}>

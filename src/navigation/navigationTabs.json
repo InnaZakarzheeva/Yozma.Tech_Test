@@ -1,0 +1,14 @@
+{
+  "homeTab": {
+    "routeName": "Yozma.Tech",
+    "icon": "https://media-exp1.licdn.com/dms/image/C560BAQHZjlliyYIg2w/company-logo_200_200/0?e=2159024400&v=beta&t=Lbhw_JVwZ2mdFab2FDLX_Brbi6n-SJT-Z2hFuSBgSaU"
+  },
+  "epamTab": {
+    "routeName": "EPAM",
+    "icon": "https://s.dou.ua/CACHE/images/img/static/companies/epam_logo/2c0129f6323cb3dd4a45a250aac2c0f5.png"
+  },
+  "volpisTab": {
+    "routeName": "Volpis",
+    "icon": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_HgphS9VSwg/company-logo_200_200/0?e=2159024400&v=beta&t=JTobG75yfr8WXKAZ1YSBna6n4CAN44fHm4_HJrbGXQg"
+  }
+}
